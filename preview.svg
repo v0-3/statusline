@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="754" height="76" viewBox="0 0 754 76">
+  <title>Statusline preview</title>
+  <rect width="754" height="76" rx="10" fill="#24273A"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14">
+  <text x="20" y="32" xml:space="preserve"><tspan fill="#C6A0F6">[statusline]</tspan><tspan fill="#EED49F">:main</tspan><tspan fill="#888EAA"> · </tspan><tspan fill="#F5A97F" font-weight="700">Opus 5.5</tspan><tspan fill="#888EAA"> / high</tspan></text>
+  <text x="20" y="54" xml:space="preserve"><tspan fill="#8AADF4">ctx ━━━━━━━━━─────────── 47%</tspan><tspan fill="#888EAA"> · </tspan><tspan fill="#EED49F">5h ━━━━━━──── 63%</tspan><tspan fill="#888EAA"> ↻ 2h10m</tspan><tspan fill="#888EAA"> · </tspan><tspan fill="#A6DA95">7d ━━──────── 18%</tspan><tspan fill="#888EAA"> ↻ 3d4h</tspan></text>
+  </g>
+</svg>
